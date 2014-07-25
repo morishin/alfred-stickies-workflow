@@ -2,14 +2,14 @@ Stickies Workflow for [Alfred 2](http://www.alfredapp.com)
 ========================
 
 Search with query and Open the window.
-The keyword is "s" (example: `s github`).
+The keyword is "st" (example: `st github`).
 
 With `enter` you can open the window.
 
-**[DOWNLOAD](https://github.com/yaitaimo/alfred-stickies-workflow/releases/latest)**
+**[DOWNLOAD](https://github.com/morishin/alfred-stickies-workflow/releases/latest)**
 
 ## search & open
-`s <query>` + `enter`
+`st <query>` + `enter`
 
 ## clear cache
-`s clear` + `enter`
+`st clear` + `enter`
