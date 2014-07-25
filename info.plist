@@ -55,7 +55,7 @@
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>keyword</key>
-				<string>s</string>
+				<string>st</string>
 				<key>runningsubtext</key>
 				<string>Please wait...</string>
 				<key>script</key>
